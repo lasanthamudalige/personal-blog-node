@@ -49,7 +49,7 @@ app.get("/posts/:topic", function (req, res) {
     let storedTitle = _.lowerCase(post.title);
 
     if (storedTitle === requestedTitle) {
-      console.log("Match found!");
+      // console.log("Match found!");
       res.render("post", { post: post });
     }
   });
