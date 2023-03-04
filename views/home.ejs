@@ -1,0 +1,14 @@
+<%- include("partials/header"); -%> 
+
+<h1>Home</h1>
+<p><%= content %></p>
+
+<% for (var i=0; i < posts.length; i++) {  %>
+    <div>
+        <h1><%= posts[i].title %></h1>
+        <!--use slice function to get 100 words from the paragraph -->
+        <p><%= posts[i].content.slice(0, 100) %>... <a href="/posts/<%= posts[i].title %>">Read More</a></p> 
+    </div>
+<% } %>
+
+<%- include("partials/footer"); -%>
