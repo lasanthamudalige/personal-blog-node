@@ -17,6 +17,19 @@ Project is created with:
 * Javascript version: ES 6
 * Node version: 18
 * Bootstrap version: 3
+
+## Screenshots
+  - ***Home page***
+      ![image](https://user-images.githubusercontent.com/91461938/222901579-455fe0e4-9011-4e7a-9a98-d4724e86d3fe.png)
+  
+  - ***Secret page to add posts***
+      ![image](https://user-images.githubusercontent.com/91461938/222901626-818c6edc-4c6e-4410-a832-3ab9cee56700.png)
+  
+  - ***Home page after adding blog posts***
+      ![image](https://user-images.githubusercontent.com/91461938/222901803-3fd83bfd-d25b-419d-8628-9416c279a82c.png)
+
+  - ***Link for each blog post***
+      ![image](https://user-images.githubusercontent.com/91461938/222901922-855fea80-0dd7-4113-a72c-648e2171c410.png)
 	
 ## Setup
 
@@ -42,20 +55,6 @@ To run this project:
 ```
 $ node app.js
 ```
-
-## Screenshots
-  - Home page
-      ![image](https://user-images.githubusercontent.com/91461938/222901579-455fe0e4-9011-4e7a-9a98-d4724e86d3fe.png)
-  
-  - Secret page to add posts
-      ![image](https://user-images.githubusercontent.com/91461938/222901626-818c6edc-4c6e-4410-a832-3ab9cee56700.png)
-  
-  - Home page after adding blog posts
-      ![image](https://user-images.githubusercontent.com/91461938/222901803-3fd83bfd-d25b-419d-8628-9416c279a82c.png)
-
-  - Link for each blog post
-      ![image](https://user-images.githubusercontent.com/91461938/222901922-855fea80-0dd7-4113-a72c-648e2171c410.png)
-
 
 ## License 
 This project is open source and available under the [MIT License](https://github.com/lasanthamudalige/personal-blog/blob/main/LICENSE).
