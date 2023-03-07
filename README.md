@@ -1,6 +1,6 @@
 # Personal Blog
 
-A Personal blog using [Javscript](https://developer.mozilla.org/en-US/docs/Web/javascript), [Node.js](https://nodejs.org/en/) and [Bootstrap](https://getbootstrap.com/)
+A Personal blog using [Javscript](https://developer.mozilla.org/en-US/docs/Web/javascript), [Node.js](https://nodejs.org/en/), [Bootstrap](https://getbootstrap.com/) and [MongoDB](https://www.mongodb.com/)
 
 ## Table of contents
 * [General info](#general-info)
@@ -17,6 +17,7 @@ Project is created with:
 * Javascript version: ES 6
 * Node version: 18
 * Bootstrap version: 3
+* MongoDB version: 6.0.4
 
 ## Screenshots
   - ***Home page***
