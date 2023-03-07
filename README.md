@@ -21,16 +21,16 @@ Project is created with:
 
 ## Screenshots
   - ***Home page***
-      ![image](https://user-images.githubusercontent.com/91461938/222901579-455fe0e4-9011-4e7a-9a98-d4724e86d3fe.png)
+  	![image](https://user-images.githubusercontent.com/91461938/223372068-b1971fd6-23bd-4edb-b78d-08ec35aa3f56.png)
   
   - ***Secret page to add posts***
-      ![image](https://user-images.githubusercontent.com/91461938/222901626-818c6edc-4c6e-4410-a832-3ab9cee56700.png)
+      ![image](https://user-images.githubusercontent.com/91461938/223371813-a3baa3d4-6305-4a43-929a-7ceab922a7cb.png)
   
   - ***Home page after adding blog posts***
-      ![image](https://user-images.githubusercontent.com/91461938/222901803-3fd83bfd-d25b-419d-8628-9416c279a82c.png)
+      ![image](https://user-images.githubusercontent.com/91461938/223371762-8ec7a73a-7d9f-4587-a3d6-3b9863ccddee.png)
 
   - ***Link for each blog post***
-      ![image](https://user-images.githubusercontent.com/91461938/222901922-855fea80-0dd7-4113-a72c-648e2171c410.png)
+      ![image](https://user-images.githubusercontent.com/91461938/223372299-dd765809-df21-4e3f-8a51-ba3605efeb6c.png)
 	
 ## Setup
 
